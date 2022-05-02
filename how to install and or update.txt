@@ -1,0 +1,47 @@
+-- INSTALLATION INSTRUCTIONS
+-- if you already have thcrap set up with aocf, you are able to skip some of these steps.
+-- requirements
+	- latest version of thcrap. download at https://github.com/thpatch/thcrap/releases
+	- antinomy of common flowers v1.10d (i havent tested this on older versions or betas, but you can try if you want). download at https://moriyashrine.org/files/file/43-touhou-155-antinomy-of-common-flowers/ (FILE TAKEN DOWN, WILL NOT BE INCLUDED WITH MOD)
+-- setting up
+	- once thcrap is installed, go to its folder and open thcrap_configure.exe. allow its repos to load, and then choose lang_en. at this time, lang_en is patch 191.
+	- press enter again without inputting any other numbers.
+	- you can give the patch a custom name, but it isn't required.
+	- once prompted with "you do not yet have a config/games.js", you will be asked to choose the directory your touhou game(s) are in. navigate to the directory aocf is in, and select the folder.
+	- if you have both the beta and normal versions, choose the non-beta exe. make sure to create the shortcut.
+	- the english language patch will now be installed.
+-- importing files
+	- now that the english patch is installed, enter the repos folder inside thcrap. enter thpatch from here.
+	- copy the palette folder from inside here into thpatch.
+	- return to the thcrap folder and enter config.
+	- copy the palette.js file from in here into config.
+-- very slightly complicated thing
+	- now, we are going to edit the shortcut we created earlier. right click on it (it should be in the thcrap folder), and click on properties.
+	- inside the target box, there should be a section with en.js in quotes. replace en.js with palette.js.
+
+-- that's it! you're done. the mod should now work correctly.
+
+-- UPDATING INSTRUCTIONS
+-- requirements
+	- have the mod installed lol
+-- updating it
+	- with your newly downloaded palette folder, navigate to the old one within the thcrap folders.
+	- simply drag the new palette folder into thpatch and replace all the old files.
+
+-- all done.
+
+-- NETPLAY
+-- thcrap mods do work with netplay, and even the lunarcast netplay patch. that means this mod also does. only the parties with the mod installed will work, though. thcrap-modded aocf can play with non-modded aocf, as well.
+
+-- requirements
+	- the netplay patch from lunarcast. download at http://lunarcast.net/aocf.php
+-- setup
+	- to set up the netplay patch exe for modding, you must already have aocf set up in thcrap.
+	- from the thcrap folder, enter config.
+	- right click on games.js and click edit. there should be a section for th155 when it opens.
+	- go to the end of the aocf path and change th155.exe to th155n.exe.
+	- the shortcut does not have to be edited for this. the thcrap loader will automatically find the new exe.
+
+-- and now netplay also works!
+
+-- any questions? is the mod not working? dm me on discord. (pancake#1606)
