@@ -1,0 +1,41 @@
+-- UPDATES
+
+-- VERSION 2-2beta - 5/1/22 (hi)
+--additions
+	- re-added palette list.txt
+-- changes
+	- minor changes to the how-to addressing the removal of aocf from moriya shrine
+
+-- VERSION 2-1beta - 10/1/21 (??? lol oops)
+-- additions
+	- added custom palette selects for some characters (slightly broken)
+-- changes
+	- removed palette list.txt
+	- doremy's hoon colors have been edited
+
+-- VERSION 1-2beta - 8/19/21
+-- additions
+	- futo now has a modern ji palette
+	- miko now has a yange palette
+-- changes
+	- godfuto, who was accidentally hidden in the last update, is now in the palette list
+
+-- VERSION 1-1beta - 8/7/21
+--additions
+	- kokoro now has a bubu palette
+	- added text to the title screen, makes it easier to tell if the mod is working
+-- changes
+	- kasen's yorugata colors have been completely reworked
+	- shion's tuojie colors have been reworked
+	- shion's yange colors have been edited
+	- shion's baobao colors have been edited
+
+-- VERSION 1-0beta - 8/7/21
+-- additions
+	- added installation instructions, put together zip
+-- changes
+	- (none)
+
+-- versions before this point in time are not recorded. - 8/7/21
+
+-- pancake#1606
