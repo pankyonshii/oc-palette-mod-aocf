@@ -1,0 +1,25 @@
+-- LIST
+-- which palettes are which?
+
+doremy - shown in color select -- xiao hoon
+futo - shown in color select -- yoshika miyako (non-pan oc), brown, green, blue -- godfuto (non-pan oc), yellow, blue, white -- ji (modern)
+byakuren - shown in color select -- zhongyong
+ichirin - gray, green, brown -- wobu zaihu
+joon & shion -  all but yellow, white -- hei and her jiangshi (xin, sho, ji, tuojie, yange, baobao)
+kasen - brown, white, green -- yorugata
+koishi - not added
+kokoro - yellow, white, brown -- bubu
+mamizou - yellow, blue -- hakkou
+marisa - yellow, brown, white -- maple (non-pan oc)
+miko - yellow, black, white -- yange
+mokou - not added
+nitori - not added
+reimu - not added
+shinmyoumaru - brown, green, gray -- nai
+tenshi - not added
+reisen - beige, green -- bahu
+sumireko - not added
+yukari - yellow, velvet, red -- bubi
+
+-- colors listed are the background gradient colors for each palette.
+-- most of these colors are obvious on the palettes they're for anyways, so you can probably infer.
